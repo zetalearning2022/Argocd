@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Darsh8790/argocd-app-config
+    repoURL: https://github.com/zetalearning2022/Argocd-single-app
     targetRevision: HEAD
     path: demo-app
   destination: 
